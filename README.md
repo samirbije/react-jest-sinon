@@ -25,7 +25,7 @@ Running the app locally.
 Note: Please make sure all above installation requirements are met for smooth running of the app.
 
 1. Go to the project folder inside Apache htdocs folder using terminal.
-2. Go to the frontend folder 
+2. Go to the client folder 
 3. Run the command yarn install
 4. Run the command yarn run build
 5. Run the command yarn start.
